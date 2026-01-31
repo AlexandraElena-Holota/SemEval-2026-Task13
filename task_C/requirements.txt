@@ -1,0 +1,24 @@
+# Core deep learning framework
+torch>=2.0.0
+
+# Data manipulation and numerical computing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Hugging Face ecosystem
+datasets>=2.14.0
+transformers>=4.30.0
+
+# Machine learning utilities
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Additional dependencies that may be required
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
